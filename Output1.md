@@ -10,4 +10,4 @@
 ---
 
 ### Using these infomation I then use it on my 'Current' file to produce signals for long/shorts
-### Indicators are not included, but are used to check for look ahead bias and for the forecasting of 'Current' file
+### Indicators are not included here, but are used to check for look ahead bias and for the forecasting of 'Current' file
