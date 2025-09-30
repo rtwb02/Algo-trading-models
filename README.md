@@ -21,5 +21,5 @@ Important: Core formulas, domain-specific features, and proprietary logic have b
 - `src/pred.py` — Automated training, evaluation, and prediction pipeline.
 - `requirements.txt` — Minimal dependencies.
 
-### Do note that code will not work as certain parts are removed, this only show a rough outline of the pipeline 
+#### Do note that code will not work as certain parts are removed, this only show a rough outline of the pipeline 
 
